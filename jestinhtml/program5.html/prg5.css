@@ -1,0 +1,24 @@
+body
+{
+background-color:pink;
+padding:20px;
+}
+
+h1
+{
+color:darkblue;
+}
+
+form
+{
+background-color:lightblue;
+padding:25px;
+border:2px black;
+}
+
+legend
+{
+color:red;
+}
+
+
